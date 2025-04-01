@@ -25,10 +25,6 @@ The project follows a multi-layered architecture:
 4. **Visualization** - Insights and reporting using **Power BI**.
 ![image](https://github.com/user-attachments/assets/cb615a5c-989b-47b3-803a-0db911be61a0)
 
-
-## 📁 Data Sources
-- **Original Dataset** - Hosted on Kaggle: [UK Veterinary Dataset](https://www.kaggle.com/datasets/ukvet...)
-
 Happy Learning! 🚀
 
 
